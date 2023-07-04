@@ -8,4 +8,4 @@ Yoga instructor, Mom and Wife. Budding Coder.
 <a href="http://jordoswan.github.io/pacManFun"> Pacman Project </a>
 
 ### Eye Movement repo
-<a href="http://jordoswan.github.io/
+<a href="http://jordoswan.github.io/Eye-Exercise"> Eye Movement Project </a>
