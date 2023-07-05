@@ -1,8 +1,8 @@
 h1 {
-    font-size: 25em;
+    font-size: 10em;
     color: royalblue;
 
-}body {
+}body{
     background-image: url('IMG_0620.jpeg');
     background-size: contain;
   }
@@ -11,4 +11,7 @@ h1 {
 h2 {text-align: center;
   } 
 p {text-align: center;
- }     
+ } 
+img {
+  content: url("./IMG_0143.jpeg");
+}    
