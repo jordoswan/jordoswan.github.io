@@ -4,11 +4,7 @@ h1 {
 
 }body {
     background-image: url('IMG_0620.jpeg');
-    background-size: 150px;
-    width: 300px;
-    height: 300px;
-    border: 2px solid;
-    color: whitesmoke;
+    background-size: contain;
   }
   h1 {text-align: center;
   }
