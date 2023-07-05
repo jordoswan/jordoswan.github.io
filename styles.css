@@ -1,13 +1,13 @@
 h1 {
-    font size 5em;
+    font size 10em;
     color: purple;
 }
 body {
     background-image: url('IMG_0620.jpeg');
   }
   h1 {text-align: center;
-     }
-  h2 {text-align: center;
-     } 
-  p {text-align: center;
-    }           
+  }
+h2 {text-align: center;
+  } 
+p {text-align: center;
+ }     
