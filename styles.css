@@ -11,6 +11,7 @@ h1 {
 h2 {text-align: center;
   } 
 p {text-align: center;
+   font-size: x-large;
  } 
 img {
   content: url("./IMG_0143.jpeg"); 
@@ -19,6 +20,3 @@ img {
   margin-right: auto;
 
 } 
-P {font font-size: x-large;
-}
-  
