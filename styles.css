@@ -1,8 +1,8 @@
-
+p.solid {border-style: solid;}
 body{
     background-image: url('IMG_0620.jpeg');
     background-size: contain;
-    border-style: hidden;
+  
   }h1{text-align: center;
       text-transform: uppercase;
       color: black
