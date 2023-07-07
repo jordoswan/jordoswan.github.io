@@ -1,13 +1,9 @@
 p.solid {border-style: solid;}
 body {
-    background-image: url("IMG_0620.jpeg")
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-  }
-  h1{text-align: center;
-      text-transform: uppercase;
-      color: black
+
+}h1{text-align: center;
+    text-transform: uppercase;
+    color: black
 
   }h2{text-align: center;
       text-transform: uppercase;
