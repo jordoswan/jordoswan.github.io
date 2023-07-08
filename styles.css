@@ -50,9 +50,8 @@
 body, html {
   height: 100%;
   margin: 0;
-  background-image: url('webpagalternate2.jpeg');
-  color: #FFFFFF;
-
+  background-image: "webpagalternate2.jpeg";
+ 
 }
 
 
